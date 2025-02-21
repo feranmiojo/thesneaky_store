@@ -458,7 +458,10 @@ footer{
  nav{
     padding: 20px;
  }
-
+.limitedOffer{
+    padding: 0px 20px ;
+    display: flex;
+ }
  .search{
     display: none;
  }
